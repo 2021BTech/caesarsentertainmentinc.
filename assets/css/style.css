@@ -102,8 +102,8 @@ TABLE OF CONTENTS:-
 }
 
 .bg-main {
-  background-color: var(--color-main) !important;
-  border-color: var(--color-main) !important;
+  background-color: #FF6A3D  !important;
+  border-color: #FF6A3D  !important;
 }
 
 .color-lightBlue {
@@ -160,43 +160,43 @@ TABLE OF CONTENTS:-
 
 .bg-gray2 {
   background-color: var(--color-gray2) !important;
-  color: var(--color-blue2) !important;
+  color: #FF6A3D  !important;
 }
 
 .color-blue2 {
-  color: var(--color-blue2) !important;
+  color: #FF6A3D  !important;
 }
 
 .bg-blue2 {
-  background-color: var(--color-blue2) !important;
+  background-color: #FF6A3D  !important;
 }
 
 .border-blue2 {
-  border-color: var(--color-blue2) !important;
+  border-color: #FF6A3D  !important;
 }
 
 .color-blue4 {
-  color: var(--color-blue4) !important;
+  color: #FF6A3D  !important;
 }
 
 .bg-blue4 {
-  background-color: var(--color-blue4) !important;
+  background-color: #FF6A3D  !important;
 }
 
 .border-blue4 {
-  border-color: var(--color-blue4) !important;
+  border-color: #FF6A3D  !important;
 }
 
 .color-blue5 {
-  color: var(--color-blue5) !important;
+  color: #FF6A3D  !important;
 }
 
 .bg-blue5 {
-  background-color: var(--color-blue5) !important;
+  background-color: #FF6A3D  !important;
 }
 
 .border-blue5 {
-  border-color: var(--color-blue5) !important;
+  border-color: #FF6A3D  !important;
 }
 
 .color-blue6 {
@@ -752,7 +752,7 @@ small.text {
   border: 0px;
   height: 1px;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.05);
+  background: #1A2238 ;
   -webkit-transition: all 1s;
   -o-transition: all 1s;
   transition: all 1s;
@@ -811,9 +811,9 @@ small.text {
   left: 0;
   height: 50%;
   width: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(#7491f8), to(#80d3ff));
-  background: -o-linear-gradient(left, #7491f8, #80d3ff);
-  background: linear-gradient(to right, #7491f8, #80d3ff);
+  background: -webkit-gradient(linear, left top, right top, from(#1A2238 ), to(#1A2238  ));
+  background: -o-linear-gradient(left, #1A2238 , #1A2238 );
+  background: linear-gradient(to right, #1A2238 , #1A2238 );
   -webkit-transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
   -o-transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
   transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
@@ -861,7 +861,7 @@ small.text {
   left: 0;
   top: 0;
   z-index: 999;
-  background-color: rgba(0, 0, 0, 0.3333333333);
+  background-color: #1A2238 ;
   display: none;
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
@@ -999,6 +999,7 @@ small.text {
   top: 20px;
   width: 100%;
   height: 100%;
+
 }
 
 /* --------------- End Preloader --------------- */
@@ -1011,7 +1012,7 @@ small.text {
   width: 35px;
   height: 35px;
   border-radius: 7px;
-  background: var(--color-main-grad);
+  background: #FF6A3D ;
   color: #fff;
   font-size: 11px;
   text-align: center;
@@ -1074,8 +1075,8 @@ small.text {
 }
 .pagination.color-5 a.active {
   color: #fff;
-  border-color: var(--color-blue5);
-  background-color: var(--color-blue5);
+  border-color: #FF6A3D ;
+  background-color: #FF6A3D ;
 }
 .pagination.color-4 a:hover {
   color: var(--color-blue4) !important;
@@ -1848,7 +1849,7 @@ small.text {
 }
 .butn.butn-blue6,
 .btn.butn-blue6 {
-  background: var(--color-blue6);
+  background: #FF6A3D ;
 }
 .butn.butn-blue6 span,
 .butn.butn-blue6 small,
@@ -1858,7 +1859,7 @@ small.text {
 }
 .butn.blue5-3Dbutn,
 .btn.blue5-3Dbutn {
-  background: var(--color-blue5);
+  background: #FF6A3D ;
   -webkit-box-shadow: 0px 4px 0px 0px var(--color-blue4);
           box-shadow: 0px 4px 0px 0px var(--color-blue4);
   -webkit-filter: drop-shadow(0 13px 20px rgba(7, 57, 114, 0.2078431373));
@@ -1901,7 +1902,7 @@ small.text {
 }
 .butn.hover-blue2:hover,
 .btn.hover-blue2:hover {
-  background: var(--color-blue2);
+  background: #FF6A3D ;
   border-color: transparent !important;
 }
 .butn.hover-blue2:hover span,
@@ -1912,7 +1913,7 @@ small.text {
 }
 .butn.hover-blue4:hover,
 .btn.hover-blue4:hover {
-  background: var(--color-blue4);
+  background: #FF6A3D ;
   border-color: transparent !important;
 }
 .butn.hover-blue4:hover span,
@@ -1923,7 +1924,7 @@ small.text {
 }
 .butn.hover-blue5:hover,
 .btn.hover-blue5:hover {
-  background: var(--color-blue5) !important;
+  background: #FF6A3D !important;
   border-color: transparent !important;
 }
 .butn.hover-blue5:hover span,
@@ -2045,7 +2046,7 @@ small.text {
 }
 .section-head.style-3 h3 span {
   font-weight: 400;
-  color: var(--color-blue2);
+  color: #FF6A3D ;
   font-style: italic;
   position: relative;
 }
@@ -2100,7 +2101,7 @@ small.text {
   font-size: 45px;
 }
 .section-head.style-5 h2 span {
-  color: var(--color-blue5);
+  color: #FF6A3D ;
   position: relative;
   display: inline-block;
   padding: 0 5px;
@@ -2330,7 +2331,7 @@ small.text {
 .top-navbar.style-5 {
   padding: 10px 15px;
   text-align: center;
-  background-color: var(--color-blue5);
+  background-color: #FF6A3D ;
 }
 
 /* --------------- top navbar style-7 --------------- */
@@ -2813,7 +2814,7 @@ small.text {
   padding: 20px 0;
 }
 .navbar.style-3.nav-scroll {
-  background-color: #4A00E1 !important;
+  background-color: #1A2238 !important;
 }
 .navbar.style-3 .navbar-brand img {
   width: 155px;
@@ -2946,7 +2947,7 @@ small.text {
   text-transform: capitalize;
 }
 .navbar.style-5 .nav-item .nav-link:hover, .navbar.style-5 .nav-item .nav-link.active {
-  color: var(--color-blue5);
+  color: #FF6A3D ;
 }
 .navbar.style-5 .nav-item .nav-link .bi {
   position: relative;
@@ -3483,7 +3484,7 @@ header.style-2 .content .brands {
 }
 
 header.style-3 {
-  background-color: var(--color-blue2);
+  background-color: #FF6A3D ;
   position: relative;
   padding: 100px 0 30px;
 }
@@ -3541,9 +3542,10 @@ header.style-3 .content .info .h1 {
   line-height: 1.2;
 }
 header.style-3 .content .info .h1 span {
-  font-weight: 400;
+  font-weight: 600;
   position: relative;
   font-style: italic;
+  color: #1A2238 ;
 }
 header.style-3 .content .info .h1 span::before {
   position: absolute;
@@ -5027,7 +5029,7 @@ header.style-15 .countdown-content .logos img {
   bottom: 0;
   height: 1px;
   width: 0%;
-  background-color: var(--color-blue5);
+  background-color: #FF6A3D ;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -7375,7 +7377,7 @@ header.style-15 .countdown-content .logos img {
   font-size: 12px;
 }
 .testimonials.style-3 .testimonial-slider.style-3 .swiper-button-next:hover {
-  background: var(--color-blue2);
+  background: #FF6A3D ;
 }
 .testimonials.style-3 .testimonial-slider.style-3 .swiper-button-prev {
   top: -65px;
@@ -7389,7 +7391,7 @@ header.style-15 .countdown-content .logos img {
   font-size: 12px;
 }
 .testimonials.style-3 .testimonial-slider.style-3 .swiper-button-prev:hover {
-  background: var(--color-blue2);
+  background: #FF6A3D ;
 }
 
 .testimonials.style-4 .content {
@@ -7407,7 +7409,7 @@ header.style-15 .countdown-content .logos img {
   margin-bottom: 15px;
 }
 .testimonials.style-4 .content .numbs .num-card h2 {
-  color: var(--color-blue4);
+  color: #FF6A3D ;
 }
 .testimonials.style-4 .content .numbs .num-card p {
   font-size: 11px;
@@ -9942,7 +9944,7 @@ header.style-15 .countdown-content .logos img {
 }
 .faq.style-3 .accordion-item .accordion-button:not(.collapsed) {
   background-color: #fff;
-  color: var(--color-blue2);
+  color: #FF6A3D ;
   padding-top: 30px;
 }
 .faq.style-3 .accordion-item .accordion-collapse {
@@ -9965,7 +9967,7 @@ header.style-15 .countdown-content .logos img {
 }
 .faq.style-3.style-4 .accordion-item .accordion-button:not(.collapsed) {
   background-color: #f4f2fb;
-  color: var(--color-blue4);
+  color: #FF6A3D ;
   padding-bottom: 10px;
 }
 .faq.style-3.style-4 .accordion-item .accordion-collapse {
@@ -9997,7 +9999,7 @@ header.style-15 .countdown-content .logos img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background: var(--color-blue7);
+  background: #FF6A3D ;
   right: 0;
   top: 20%;
   -webkit-transform: translateX(60%);
@@ -10010,7 +10012,7 @@ header.style-15 .countdown-content .logos img {
   border-bottom: 1px solid rgba(153, 153, 153, 0.3333333333);
 }
 .faq.style-10 .accordion-collapse {
-  border-bottom: 1px solid var(--color-blue7);
+  border-bottom: 1px solid #FF6A3D ;
 }
 .faq.style-10 .accordion-button {
   background: transparent;
@@ -11547,7 +11549,7 @@ header.style-15 .countdown-content .logos img {
 ================================================================*/
 /* --------------- chat-banner styles --------------- */
 .chat-banner.style-3 {
-  background-color: var(--color-blue2);
+  background-color: #1A2238 ;
   position: relative;
 }
 .chat-banner.style-3::after {
@@ -11574,6 +11576,7 @@ header.style-15 .countdown-content .logos img {
   font-weight: 400;
   font-style: italic;
   position: relative;
+  color: #FF6A3D ;
 }
 .chat-banner.style-3 .info h3 span::before {
   position: absolute;
@@ -13420,7 +13423,7 @@ footer.style-15 .foot p {
 }
 .inner-header.style-5 .content .links a:last-of-type {
   font-weight: bold;
-  color: var(--color-main);
+  color: #FF6A3D ;
   border: 0;
   padding: 0;
   margin: 0;
@@ -15143,13 +15146,13 @@ footer.style-15 .foot p {
   color: #999;
 }
 .faq-page.style-5 .faq-tabs .nav .nav-item .nav-card.active {
-  border-color: var(--color-blue5);
+  border-color: #FF6A3D ;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
 .faq-page.style-5 .faq-body .faq-category {
   padding: 50px;
-  background-color: var(--color-blue5);
+  background-color: #FF6A3D ;
   border-radius: 5px;
   color: #fff;
   position: sticky;
@@ -15224,7 +15227,7 @@ footer.style-15 .foot p {
   padding: 12px 20px;
 }
 .faq-page.style-5 .faq-body .faq-questions .accordion-item .accordion-button:not(.collapsed) {
-  background-color: var(--color-blue5);
+  background-color: #FF6A3D ;
   color: #fff;
 }
 .faq-page.style-5 .faq-body .faq-questions .accordion-item .accordion-button:not(.collapsed)::after {
@@ -15712,7 +15715,7 @@ footer.style-15 .foot p {
   background-color: rgba(153, 153, 153, 0.6);
 }
 .about-page.style-2 .about.style-2 .info .nav .nav-item .nav-link.active {
-  color: var(--color-blue5);
+  color: #FF6A3D ;
 }
 .about-page.style-2 .about.style-2 .pattern_l {
   position: absolute;
@@ -15740,7 +15743,7 @@ footer.style-15 .foot p {
   position: relative;
 }
 .about-page.style-2 .timeline .card-year h3 {
-  color: var(--color-blue5);
+  color: #FF6A3D ;
   font-size: 44px;
 }
 .about-page.style-2 .timeline .timeline-content {
